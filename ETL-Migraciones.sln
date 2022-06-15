@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1913
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL-Migraciones", "ETL-Migraciones\ETL-Migraciones.dtproj", "{20D00C62-9B2F-4A8E-BE49-3F4818F057A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D00C62-9B2F-4A8E-BE49-3F4818F057A2}.Development|Default.ActiveCfg = Development
+		{20D00C62-9B2F-4A8E-BE49-3F4818F057A2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F21BDDFE-2033-4A27-8809-65A80F889A26}
+	EndGlobalSection
+EndGlobal
